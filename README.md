@@ -21,7 +21,7 @@
         <section id="about">
             <h2>About Us</h2>
             <p>The world's most famous university for pigeons, providing qualified education for all pigeons eager to learn how to poop.</p>
-            <img src="pigeon.jpg" alt="Wild Pigeon">
+            <img src="pigeon.jpg" alt="Wild Pigeon" style="width: 300px; height: auto;">
         </section>
         <section id="courses">
             <h2>Courses</h2>
