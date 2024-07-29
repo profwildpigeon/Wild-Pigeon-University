@@ -1,1 +1,96 @@
 The courses are only available to birds-kind such like pigeons, no human being!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wild Pigeon University</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #ff5733;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background-color: #ff5733;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Wild Pigeon University</h1>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#courses">Courses</a>
+        <a href="#faculty">Faculty</a>
+        <a href="#news">News</a>
+        <a href="#activities">Activities</a>
+        <a href="#admissions">Admissions</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container">
+        <section id="about">
+            <h2>About Us</h2>
+            <p>The world's most famous university for pigeons, providing qualified education for all pigeons eager to learn how to poop.</p>
+        </section>
+        <section id="courses">
+            <h2>Courses</h2>
+            <ul>
+                <li>Poop training</li>
+                <li>Specialized courses on pooping on cars</li>
+                <li>Specialized courses on pooping on windows</li>
+                <li>Specialized courses on pooping on pedestrians' heads</li>
+            </ul>
+        </section>
+        <section id="faculty">
+            <h2>Faculty</h2>
+            <p>Prof. Wild Pigeon, PhD in pooping.</p>
+        </section>
+        <section id="news">
+            <h2>News</h2>
+            <p>Excellent graduate poops on more than 10k cars per year, you could be the next one!</p>
+        </section>
+        <section id="activities">
+            <h2>Activities</h2>
+            <p>After-school pooping club, invite your bird friends to join anytime!</p>
+        </section>
+        <section id="admissions">
+            <h2>Admissions</h2>
+            <p>Online/offline poop training courses, don't miss any chance! Contact <a href="mailto:office@wildpigeon.edu">office@wildpigeon.edu</a> now and be a professional pooper!</p>
+        </section>
+    </div>
+    <footer>
+        <p>Contact us: <a href="mailto:office@wildpigeon.edu">office@wildpigeon.edu</a></p>
+        <p>Address: Pigeon Nest Str, Tree City</p>
+    </footer>
+</body>
+</html>
